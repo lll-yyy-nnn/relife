@@ -45,7 +45,7 @@
   "short_name": "LifeRestart",
   "orientation": "portrait",
   "display": "standalone",
-  "start_url": "/view/index.html",
+  "start_url": "view/index.html",
   "description": "超级穷鬼系统",
   "background_color": "#ffffff"
 }
